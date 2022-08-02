@@ -6,7 +6,8 @@ The projects implemented so far are mainly front-end based on react.js, but I wa
 Please show a lot of interest!
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=LEE-hyeon0771)]
+![trophy](https://github-profile-trophy.vercel.app/?username=LEE-hyeon0771)
+
 
 ![LEE-hyeon0771's github stats](https://github-readme-stats.vercel.app/api?username=LEE-hyeon0771&show_icons=true)
 
