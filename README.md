@@ -1,5 +1,5 @@
 ### Welcome!! My name is LEE-hyeon.
-I study Yonsei Mirae University. My major is Digital HealthCare.
+I am majoring in digital healthcare at Yonsei University Mirae Campus and both majoring in industrial engineering at Sinchon Campus.
 I will record all the footsteps of my studies and interests on GitHub.
 Until now, I has studied C, JAVA, Python languages, data structures, and algorithms. Then plans to study the web, app, and data science fields and cloud services in the future.
 The projects implemented so far are mainly front-end based on react.js, but I want to expand additional language and framework pools. 
