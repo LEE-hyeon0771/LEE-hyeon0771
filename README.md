@@ -5,11 +5,11 @@ Until now, I has studied C, JAVA, Python languages, data structures, and algorit
 The projects implemented so far are mainly front-end based on react.js, but I want to expand additional language and framework pools. 
 Please show a lot of interest!
 
-👋
+<a href="[1. [(https://ko.reactjs.org/)]" target="_blank"><img src="https://img.shields.io/badge/[2. react]-[3. 31A8FF]?style=flat-square</a>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=LEE-hyeon0771)]
 
 ![LEE-hyeon0771's github stats](https://github-readme-stats.vercel.app/api?username=LEE-hyeon0771&show_icons=true)
-[![LEE-hyeon0771's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-hyeon0771 &show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LEE-hyeon0771)
 
 
 <!--
