@@ -22,8 +22,7 @@ Please show a lot of interest my github!!
 1. MySQL
 2. R studio
 3. SAS
-4. SPSS
-5. TensorFlow
+4. TensorFlow
 
 
 
