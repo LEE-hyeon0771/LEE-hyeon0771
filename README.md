@@ -15,7 +15,7 @@ Please show a lot of interest my github!!
 1. C
 2. JAVA
 3. Python - pandas, numpy, keras
-4. React.js
+4. React
 5. Kotlin
 
 ### Hope Expand Tools
