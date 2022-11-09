@@ -23,6 +23,7 @@ Please show a lot of interest my github!!
 2. R studio
 3. SAS
 4. TensorFlow
+5. AI Model(Machine Learning, Deep Learning)
 
 
 
