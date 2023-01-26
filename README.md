@@ -21,7 +21,7 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 
 ### Hope Expand Tools
 1. MySQL
-2. GIS
+2. Pytorch
 3. TensorFlow
 4. AI Model(Machine Learning, Deep Learning)
 
