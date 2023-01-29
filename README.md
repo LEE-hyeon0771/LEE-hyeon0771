@@ -5,7 +5,7 @@ I will record all the footsteps of my studies and interests on GitHub.
 
 Until now, I has studied C, JAVA, Python, kotlin, react.js languages, Data structures, and Algorithms. 
 
-Then plans to study the data science fields and AI in the future.
+Then plans to study Artificial Intelligence fields in the future. I want to study computer vision that can be used in many industrial fields now. Now I'm trying to strengthen the basics by studying various computers science knowleage that are the basis for studying AI.
 
 The projects implemented so far are mainly web front-end based on react.js, but I want to expand additional language and framework pools. 
 
