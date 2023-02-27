@@ -19,12 +19,16 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 4. react
 5. Kotlin
 
-### Hope Expand Tools
+### Hope Expand Pools
 1. MySQL
 2. Pytorch
 3. TensorFlow
 4. AI Model(Machine Learning, Deep Learning)
 
+### Interesting Fields
+1. Computer Vision
+- Image Generative
+- Image Recognition
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LEE-hyeon0771)
