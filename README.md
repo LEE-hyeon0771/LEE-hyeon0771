@@ -27,7 +27,7 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 
 ### Interesting Fields
 1. Computer Vision
-- Image Generative
+- Image Generative(GAN)
 - Image Recognition
 
 
