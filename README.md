@@ -26,7 +26,7 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 4. AI Model(Machine Learning, Deep Learning)
 
 ### Interesting Fields
-1. Computer Vision
+1. Computer Vision - CNN
 - Image Generative(GAN)
 - Image Recognition
 
