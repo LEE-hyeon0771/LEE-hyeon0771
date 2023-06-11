@@ -3,7 +3,9 @@ I am majoring in digital healthcare at Yonsei University Mirae Campus and both m
 
 I will record all the footsteps of my studies and interests on GitHub.
 
-Until now, I has studied C, JAVA, Python, kotlin, react.js languages, Data structures, and Algorithms. 
+I has mainly studied C, JAVA, Python, kotlin, react.js languages, Data structures, and Algorithms.
+
+Until now, I has studied AI mathmatics and basic Machine Learning models and Deep Learning models.
 
 Then plans to study Artificial Intelligence fields in the future. I want to study computer vision that can be used in many industrial fields now. Now I'm trying to strengthen the basics by studying various computers science knowleage that are the basis for studying AI.
 
