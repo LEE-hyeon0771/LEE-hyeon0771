@@ -31,7 +31,8 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 1. Computer Vision - CNN
 - Image Generative(GAN)
 - Image Recognition
-
+2. Data Science
+- time series data
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LEE-hyeon0771)
 
