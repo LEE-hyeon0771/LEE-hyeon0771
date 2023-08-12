@@ -7,7 +7,7 @@ I has mainly studied C, JAVA, Python, kotlin, react.js languages, Data structure
 
 Until now, I has studied AI mathmatics and basic Machine Learning models and Deep Learning models.
 
-Then plans to study Artificial Intelligence fields in the future. I want to study computer vision that can be used in many industrial fields now. Now I'm trying to strengthen the basics by studying various computers science knowleage that are the basis for studying AI.
+Then plans to study Artificial Intelligence fields in the future. I want to study computer vision and Optimization that can be used in many industrial fields now. Now I'm trying to strengthen the basics by studying various computers science knowleage that are the basis for studying AI.
 
 The projects implemented so far are mainly web front-end based on react.js, but I want to expand additional language and framework pools. 
 
@@ -39,6 +39,7 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 
 3. Data Science
 - time series data
+- Optimization
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LEE-hyeon0771)
 
