@@ -1,39 +1,38 @@
 ### Welcome!! My name is LEE-hyeon.
-I am majoring in digital healthcare at Yonsei University Mirae Campus and both majoring in industrial engineering at Sinchon Campus.
 
 I will record all the footsteps of my studies and interests on GitHub.
-
-I has mainly studied C, JAVA, Python, kotlin, react.js languages, Data structures, and Algorithms.
 
 Until now, I has studied AI mathmatics and basic Machine Learning models and Deep Learning models.
 
 Then plans to study Artificial Intelligence fields in the future. I want to study computer vision and Optimization that can be used in many industrial fields now. Now I'm trying to strengthen the basics by studying various computers science knowleage that are the basis for studying AI.
 
-The projects implemented so far are mainly web front-end based on react.js, but I want to expand additional language and framework pools. 
+The projects implemented so far are mainly web front-end based on react.js, but I want to expand additional language and stacks.
 
 Please show a lot of interest my github!!
 
-### Using Tools
-1. C
-2. JAVA <img src = https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465>
-3. python <img src = 
-https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736e2dc737e1975056cbf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337363641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465>
-4. react.js
-5. Kotlin
+</div>
+<div align=center>
+  <h3>Tech Stack</h3>
+  <p>Platform & Languages</p>
+  
+<img src="https://img.shields.io/badge/C-34567C?style=flat&logo=C&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-1572B6?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-A100FF?style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+</div>
 
-### Hope Expand Pools
-1. MySQL
-2. Pytorch
-3. TensorFlow
-4. AI Model(Machine Learning, Deep Learning)
+
+</div>
+<div align=center>
+  <h3>Expand Stack</h3>
+  <p>Platform & Languages</p>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF9E0F?style=flat&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-FF0000?style=flat&logo=Pytorch&logoColor=white">
+</div>
+
 
 ### Interesting Fields
-1. Computer Vision - CNN
-- Image Generative(GAN)
-- Image Recognition
+1. Computer Vision
 - Medical Image
+- Diffusion
 
-2. Graph Neural Network - GNN
+2. Graph Neural Network
 - chemical & Bioinfomatics
 - Social interaction
 
@@ -43,8 +42,9 @@ https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LEE-hyeon0771)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-hyeon0771&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=LEE-hyeon0771&show_icons=true">
 
-![LEE-hyeon0771's github stats](https://github-readme-stats.vercel.app/api?username=LEE-hyeon0771&show_icons=true)
 
 
 <!--
