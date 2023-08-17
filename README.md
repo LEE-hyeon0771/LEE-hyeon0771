@@ -42,8 +42,8 @@ Please show a lot of interest my github!!
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LEE-hyeon0771)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-hyeon0771&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=LEE-hyeon0771&show_icons=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-hyeon0771)](https://github.com/LEE-hyeon0771/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEE-hyeon0771&show_icons=true&theme=graywhite)
 
 
 
