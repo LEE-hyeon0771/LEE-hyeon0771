@@ -40,6 +40,8 @@ Please show a lot of interest my github!!
 - time series data
 - Optimization
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pred0771)](https://solved.ac/pred0771/)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=LEE-hyeon0771)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEE-hyeon0771&show_icons=true&theme=graywhite)
