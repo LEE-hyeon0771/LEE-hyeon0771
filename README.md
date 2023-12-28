@@ -23,7 +23,7 @@ Please show a lot of interest my github!!
 <div align=center>
   <h3>Expand Stack</h3>
   <p>Platform & Languages</p>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF9E0F?style=flat&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-FF0000?style=flat&logo=Pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/tensorflow-FF9E0F?style=flat&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-FF0000?style=flat&logo=Pytorch&logoColor=white">
 </div>
 
 
@@ -32,13 +32,8 @@ Please show a lot of interest my github!!
 - Medical Image
 - Diffusion
 
-2. Graph Neural Network
-- chemical & Bioinfomatics
-- Social interaction
+2. Reinforcement Learning
 
-3. Data Science
-- time series data
-- Optimization
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pred0771)](https://solved.ac/pred0771/)
 
