@@ -27,6 +27,8 @@ Please show a lot of interest my github!!
 - Interesting Fields : Generative AI(LLM/LMM) & Reinforcement Learning
 - Internship at Deepnoid - LLM research & FMops Developer
 - How to reach : pred0771@yonsei.ac.kr
+- Linkein : [HyeonLEE](http://www.linkedin.com/in/%ED%98%84-%EC%9D%B4-90024a294)
+- Currently Learning : Algorithm, LLM
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pred0771)](https://solved.ac/pred0771/)
 
