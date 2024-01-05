@@ -1,12 +1,6 @@
 ### Welcome!! My name is LEE-hyeon.
 
-I will record all the footsteps of my studies and interests on GitHub.
-
-Until now, I has studied AI mathmatics and basic Machine Learning models and Deep Learning models.
-
-Then plans to study Artificial Intelligence fields in the future. I want to study computer vision and Optimization that can be used in many industrial fields now. Now I'm trying to strengthen the basics by studying various computers science knowleage that are the basis for studying AI.
-
-The projects implemented so far are mainly web front-end based on react.js, but I want to expand additional language and stacks.
+I am a student who is aiming to become an AI researcher, and I record study, algorithm, and various projects to reach my dreams on GitHub.
 
 Please show a lot of interest my github!!
 
@@ -27,13 +21,12 @@ Please show a lot of interest my github!!
 </div>
 
 
-### Interesting Fields
-1. Computer Vision
-- Medical Image
-- Diffusion
-
-2. Reinforcement Learning
-
+### About me
+- Yonsei Univ. Mirae Digital Healthcare & Sinchon Industrial Engineering
+- Google Machine Learning Bootcamp 4th - 2023.09 ~ 2023.11
+- Interesting Fields : Generative AI(LLM/LMM) & Reinforcement Learning
+- Internship at Deepnoid - LLM research & FMops Developer
+- How to reach : pred0771@yonsei.ac.kr
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pred0771)](https://solved.ac/pred0771/)
 
