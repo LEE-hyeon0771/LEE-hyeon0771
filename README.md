@@ -1,6 +1,7 @@
 ### Welcome!! My name is LEE-hyeon.
 
 I am a student who is aiming to become an AI researcher.
+
 I record study, algorithm, and various projects to reach my dreams on GitHub.
 
 Please show a lot of interest my github!!
