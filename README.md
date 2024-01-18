@@ -24,7 +24,7 @@ Please show a lot of interest my github!!
 
 
 ### About me
-- Yonsei Univ. Mirae Digital Healthcare & Sinchon Industrial Engineering
+- Yonsei Univ. Civil and Environmental Engineering
 - Google Machine Learning Bootcamp 4th - 2023.09 ~ 2023.11
 - Interesting Fields : Generative AI(LLM/LMM) & Reinforcement Learning
 - Internship at Deepnoid - LLM research & FMops Developer
