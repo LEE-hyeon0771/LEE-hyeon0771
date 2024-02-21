@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **pred0771@yonsei.ac.kr**
 
-- ⚡ Fun fact **Algorithm, LLM**
-
 <p align="left">
 </p>
 
